@@ -2,7 +2,7 @@ title:            Syamantak Mukhopadhyay
 tagline:          A beautiful theme.
 description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: http://syamantm.github.io
+#url: http://syamantm.github.io
 
 # Owner/author information
 owner:

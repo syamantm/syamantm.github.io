@@ -8,7 +8,7 @@ image:
   feature: soft-trees.jpg
 ---
 
-I'm a software developer, currently working as a Senior Backend Engineer for [Schibsted](http://www.schibsted.com/), London. Prior to that I was at [Yahoo](https://info.yahoo.com/), building [Yahoo Gemini](https://advertising.yahoo.com/ad-solutions/gemini/index.htm). I have over 9 years of professional software development experience, mostly with Java and JVM based languages, and have rmoved my focus to scala lately. 
+I'm a software developer, currently working as a Senior Backend Engineer for [Schibsted](http://www.schibsted.com/), London. Prior to that I was at [Yahoo](https://info.yahoo.com/), building [Yahoo Gemini](https://advertising.yahoo.com/ad-solutions/gemini/index.htm). I have over 9 years of professional software development experience, mostly with Java and JVM based languages, and have moved my focus to scala lately. 
 
 ### Skills
 * Extensive knowledge of Java, including Java EE, TestNG, JUnit, Maven, Spring Framework, Hibernate.
